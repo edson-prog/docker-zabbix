@@ -1,1 +1,1 @@
-# docker-zabbix
+# zabbix-appliance-aws
