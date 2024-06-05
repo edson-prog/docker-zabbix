@@ -1,7 +1,5 @@
 # zabbix-appliance-aws
 
-# Zabbix Appliance em AWS
-
 Este repositório contém as instruções para subir um container com Zabbix instalado em uma instância AWS, utilizando a aplicação Zabbix Appliance.
 
 ## Descrição
